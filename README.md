@@ -54,10 +54,10 @@ incidents and remediates them autonomously, gated behind a policy engine with a 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Argstrix&show_icons=true&theme=dark&hide_border=true&bg_color=0b0e11&title_color=45d6b5&icon_color=f2a93b&text_color=8b96a3&ring_color=f2a93b" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Argstrix&theme=dark&hide_border=true&background=0b0e11&ring=f2a93b&fire=f2a93b&currStreakLabel=45d6b5&sideLabels=8b96a3&dates=5b6670" height="165" alt="GitHub streak" />
+![GitHub stats](./assets/github-stats.svg)
+<img src="https://streak-stats.demolab.com/?user=Argstrix&theme=dark&hide_border=true&background=0b0e11&ring=f2a93b&fire=f2a93b&currStreakLabel=45d6b5&sideLabels=8b96a3&dates=5b6670" height="165" alt="GitHub streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Argstrix&layout=compact&theme=dark&hide_border=true&bg_color=0b0e11&title_color=45d6b5&text_color=8b96a3" height="165" alt="Top languages" />
+![Top languages](./assets/top-langs.svg)
 
 </div>
 
@@ -67,7 +67,7 @@ incidents and remediates them autonomously, gated behind a policy engine with a 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Argstrix&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=12&margin-h=10" alt="GitHub trophies" />
+![GitHub trophies](./assets/trophies.svg)
 
 </div>
 
