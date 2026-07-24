@@ -81,13 +81,6 @@ incidents and remediates them autonomously, gated behind a policy engine with a 
 
 </div>
 
-> Set up once: push `.github/workflows/snake.yml` to this repo, and the snake above starts
-> animating your real commit graph.
->
-> The `Uptime` field in the card above is live too &mdash; `.github/workflows/update-uptime.yml`
-> runs daily, pulls your account age from the GitHub API, and commits the update to
-> `assets/neofetch.svg` automatically. No token or extra setup needed beyond pushing the files.
-
 <br/>
 
 ### 🧰 `~/tech-stack`
