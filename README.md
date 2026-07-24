@@ -23,7 +23,7 @@
 Computer Science undergrad who ended up loving the unglamorous parts of engineering &mdash;
 event-driven backends, replay-safe data models, and systems that fail predictably instead of
 catastrophically. Past internships took me through RAG pipelines and SNMP test automation;
-right now I'm two weeks deep into **Sentinel**, a project that watches for security
+right now I'm two weeks deep into **Sentinel**, a solo project that watches for security
 incidents and remediates them autonomously, gated behind a policy engine with a full audit trail.
 
 > 🧾 Co-author, *Adversarial Robust EEG-Based Brain&ndash;Computer Interfaces using a Hierarchical
