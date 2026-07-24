@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=1200&color=F2A93B&center=true&vCenter=true&width=650&lines=Madhan+Balaji;Final-Year+CS+Student+%40+VIT+Chennai;Backend+%2B+Distributed+Systems;Currently+building%3A+Sentinel" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=1200&color=F2A93B&center=true&vCenter=true&width=650&lines=Madhan+Balaji;Backend+%2B+Distributed+Systems;Currently+building%3A+Sentinel" alt="Typing SVG" />
 
 </div>
 
@@ -10,17 +10,13 @@
 
 ![neofetch card](./assets/neofetch.svg)
 
-<br/><br/>
-
-![local time](./assets/local-time.svg)
-
 </div>
 
 <br/>
 
 ### 📖 currently reading `~/about.md`
 
-Computer Science undergrad who ended up loving the unglamorous parts of engineering &mdash;
+Engineer who ended up loving the unglamorous parts of the craft &mdash;
 event-driven backends, replay-safe data models, and systems that fail predictably instead of
 catastrophically. Past internships took me through RAG pipelines and SNMP test automation;
 right now I'm two weeks deep into **Sentinel**, a solo project that watches for security
@@ -91,9 +87,6 @@ incidents and remediates them autonomously, gated behind a policy engine with a 
 > The `Uptime` field in the card above is live too &mdash; `.github/workflows/update-uptime.yml`
 > runs daily, pulls your account age from the GitHub API, and commits the update to
 > `assets/neofetch.svg` automatically. No token or extra setup needed beyond pushing the files.
->
-> Same for the time badge up top &mdash; `.github/workflows/update-time.yml` runs every 15
-> minutes and rewrites `assets/local-time.svg` with the current time in Chennai.
 
 <br/>
 
