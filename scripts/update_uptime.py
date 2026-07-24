@@ -39,7 +39,7 @@ def update_svg(svg_path: str, new_uptime: str) -> bool:
     with open(svg_path, "r", encoding="utf-8") as f:
         content = f.read()
 
-    pattern = re.compile(r"(<!--UPTIME_START-->.*?Uptime</tspan><tspan fill=\"#5b6670\">\.\.\.\.</tspan> )([^<]*)(</text><!--UPTIME_END-->)")
+    pattern = re.compile(r"(<!--UPTIME_START-->.*?Uptime</tspan><tspan fill=\"#5b6670\"> :</tspan> )([^<]*)(</text><!--UPTIME_END-->)")
     new_content, count = pattern.subn(lambda m: f"{m.group(1)}{new_uptime}{m.group(3)}", content)
 
     if count == 0:
