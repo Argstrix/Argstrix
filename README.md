@@ -14,7 +14,7 @@
 
 <br/>
 
-### 📖 currently reading `~/about.md`
+### `~/about.md`
 
 Engineer who ended up loving the unglamorous parts of the craft &mdash;
 event-driven backends, replay-safe data models, and systems that fail predictably instead of
@@ -27,7 +27,7 @@ incidents and remediates them autonomously, gated behind a policy engine with a 
 
 <br/>
 
-### 🔧 `~/currently-building`
+### `~/currently-building`
 
 ```diff
 + Sentinel — risk-aware autonomous cyber resilience platform
@@ -37,7 +37,7 @@ incidents and remediates them autonomously, gated behind a policy engine with a 
 
 <br/>
 
-### 📦 `~/projects --featured`
+### `~/projects --featured`
 
 | project | what it does | stack |
 |---|---|---|
@@ -50,7 +50,7 @@ incidents and remediates them autonomously, gated behind a policy engine with a 
 
 <br/>
 
-### 📊 `~/stats --github`
+### `~/stats --github`
 
 <div align="center">
 
@@ -63,7 +63,7 @@ incidents and remediates them autonomously, gated behind a policy engine with a 
 
 <br/>
 
-### 🏆 `~/trophies`
+### `~/trophies`
 
 <div align="center">
 
@@ -83,7 +83,7 @@ incidents and remediates them autonomously, gated behind a policy engine with a 
 
 <br/>
 
-### 🧰 `~/tech-stack`
+### `~/tech-stack`
 
 ![Python](https://img.shields.io/badge/-Python-14161a?style=flat-square&logo=python&logoColor=3776AB)
 ![C++](https://img.shields.io/badge/-C%2B%2B-14161a?style=flat-square&logo=cplusplus&logoColor=00599C)
@@ -102,7 +102,7 @@ incidents and remediates them autonomously, gated behind a policy engine with a 
 
 <br/>
 
-### 📫 `~/contact`
+### `~/contact`
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-14161a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/madhantb/)
 [![Email](https://img.shields.io/badge/-Email-14161a?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:tbmadhan2005@gmail.com)
