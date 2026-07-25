@@ -16,9 +16,9 @@
   <text x="30" y="34" font-family="Consolas,Menlo,Monaco,'Courier New',monospace" font-size="14" font-weight="700" fill="#45d6b5">madhan@Argstrix ~ github stats</text>
   <line x1="30" y1="42" x2="330" y2="42" stroke="#45d6b5" stroke-width="1.5"/>
   <g font-family="Consolas,Menlo,Monaco,'Courier New',monospace" font-size="14" fill="#e8eaed">
-    <text x="30" y="78"><tspan fill="#f2a93b">Stars</tspan><tspan fill="#5b6670"> :</tspan> —</text>
-    <text x="30" y="110"><tspan fill="#f2a93b">Commits</tspan><tspan fill="#5b6670"> :</tspan> — (this yr)</text>
-    <text x="30" y="142"><tspan fill="#f2a93b">PRs</tspan><tspan fill="#5b6670"> :</tspan> —</text>
-    <text x="30" y="174"><tspan fill="#f2a93b">Issues</tspan><tspan fill="#5b6670"> :</tspan> —</text>
+    <text x="30" y="78"><tspan fill="#f2a93b">Stars</tspan><tspan fill="#5b6670"> :</tspan> 0</text>
+    <text x="30" y="110"><tspan fill="#f2a93b">Commits</tspan><tspan fill="#5b6670"> :</tspan> 116 (this yr)</text>
+    <text x="30" y="142"><tspan fill="#f2a93b">PRs</tspan><tspan fill="#5b6670"> :</tspan> 2</text>
+    <text x="30" y="174"><tspan fill="#f2a93b">Issues</tspan><tspan fill="#5b6670"> :</tspan> 0</text>
   </g>
 </svg>
