@@ -54,7 +54,7 @@
 
     <text x="426" y="114"><tspan fill="#f2a93b">Name</tspan><tspan fill="#5b6670"> :</tspan> Madhan Balaji</text>
     <text x="426" y="148"><tspan fill="#f2a93b">OS</tspan><tspan fill="#5b6670"> :</tspan> Linux · Windows · Android</text>
-    <!--UPTIME_START--><text x="426" y="182"><tspan fill="#f2a93b">Uptime</tspan><tspan fill="#5b6670"> :</tspan> ~2 yrs on GitHub</text><!--UPTIME_END-->
+    <!--UPTIME_START--><text x="426" y="182"><tspan fill="#f2a93b">Uptime</tspan><tspan fill="#5b6670"> :</tspan> ~3 yrs on GitHub</text><!--UPTIME_END-->
     <text x="426" y="216"><tspan fill="#f2a93b">Techstack</tspan><tspan fill="#5b6670"> :</tspan> Python · FastAPI · LangChain</text>
     <text x="426" y="250"><tspan fill="#f2a93b">Theme</tspan><tspan fill="#5b6670"> :</tspan> Sentinel-Dark [amber/teal]</text>
     <text x="426" y="284"><tspan fill="#f2a93b">Focus</tspan><tspan fill="#5b6670"> :</tspan> Backend · AI Systems · Security</text>
